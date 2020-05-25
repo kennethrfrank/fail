@@ -1,0 +1,57 @@
+
+
+@font-face {
+    font-family: 'multi';
+    src: url("Multicolore.otf") format("opentype");
+}
+
+body{
+	background-color: #000000;
+	color: #fefefe;
+	
+
+}
+
+
+.b{
+	border: 3px solid white;
+}
+
+.c{
+	text-align: center;
+}
+
+.r{
+	text-align: right;
+}
+.cUs{
+	margin-top: 10px;
+	font: 30px bold;
+	font-family: "multi";
+}
+.dFont{
+	font-family: "multi";
+
+}
+
+#email{
+	margin-right: 20px;
+	margin-top: 20px;
+	display: none;
+	font: 15px bold;
+	font-family: "multi";
+}
+.uConstruction{
+	margin-top: 35px;
+	font: 57px bold;
+	font-family: "multi";
+}
+
+i.navicons{
+	font: 50px bold;
+}
+
+a{
+	color: white;
+
+}
