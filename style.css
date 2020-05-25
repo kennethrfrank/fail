@@ -26,7 +26,7 @@ body{
 }
 .cUs{
 	margin-top: 10px;
-	font: 30px bold;
+	font: 20px bold;
 	font-family: "multi";
 }
 .dFont{
@@ -43,15 +43,19 @@ body{
 }
 .uConstruction{
 	margin-top: 35px;
-	font: 57px bold;
+	font: 40px bold;
 	font-family: "multi";
 }
 
 i.navicons{
-	font: 50px bold;
+	font: 40px bold;
 }
 
 a{
 	color: white;
 
+}
+
+@media only screen and (min-width: 500px){
+	
 }
