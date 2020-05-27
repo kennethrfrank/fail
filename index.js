@@ -20,7 +20,7 @@ $(document).ready(function(){
 	});
 
 	$("#cUs.cUs").on("click", function(){
-		window.open('mailto:contactnclyne@gmail.com?subject=WebInquiry&body=body');
+		window.open('mailto:contactnclyne@gmail.com?subject=Web Inquiry');
 		emailSlide();
 
 	});
